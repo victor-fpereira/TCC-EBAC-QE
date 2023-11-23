@@ -4,7 +4,7 @@
 
 O projeto
 
-Estratégia de teste
+[Estratégia de testes](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/Estrategia_de_testes.md)
 
 Critérios de aceitação
 
