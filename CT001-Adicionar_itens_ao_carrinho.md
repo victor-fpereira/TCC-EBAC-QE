@@ -4,7 +4,8 @@
 | Projeto          | EBAC-SHOP                  |
 | Versões afetadas | 1.0                        |
 
-
+</br>
+<h3>Descrição dos cenários em BDD </h3>
 <dl>
   </br>
   <dt>Cenário: Adição de itens ao carrinho</dt>
