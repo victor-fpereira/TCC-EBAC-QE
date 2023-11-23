@@ -4,6 +4,11 @@
 
 O projeto
 
+Casos de testes
+
+[CT0001 - Adicionar item ao carrinho](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/CT001-Adicionar_itens_ao_carrinho.md)
+
+
 [Estratégia de testes](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/Estrategia_de_testes.md)
 
 Critérios de aceitação
