@@ -6,6 +6,7 @@
 
 </br>
 <h3>Descrição dos cenários em BDD</h3>
+</br>
 <h4>GET - Listagem de Cupons</h4>
 <dl>
   </br>
