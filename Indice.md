@@ -1,1 +1,29 @@
+[1. Resumo](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/Resumo.md)
 
+[2. Introdução](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/Introducao.md)
+
+[3. Estratégia de testes](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/Estrategia_de_testes.md)
+
+[4. História de usuário - Catálogo de produtos](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/HU-Catalogo_de_produtos.md)
+
+[4.1 História de usuário - Meus pedidos](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/HU-Meus_pedidos.md)
+
+[4.2 História de usuário - Painel minha conta](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/HU-Painel_minha_conta.md)
+
+[5. Caso de teste - Detalhes da conta](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/TC-Detalhes_da_conta.md)
+
+[6. Cenários de testes em BDD - Adicionar item ao carrinho](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/CT001-Adicionar_itens_ao_carrinho.md)
+
+[6.1 Cenários de testes em BDD - Login de usuário](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/CT0002-Login_de_usuario.md)
+
+[6.2 Cenários de testes em BDD - Api de cupons](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/CT0003-Api_de_cupons.md)
+
+
+
+Testes automatizados
+
+Integração contínua
+
+Testes de performance
+
+Conclusão
