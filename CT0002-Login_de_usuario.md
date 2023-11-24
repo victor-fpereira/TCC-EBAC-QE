@@ -40,6 +40,7 @@
   <dd>E deve impedir qualquer tentativa de login por 15 minutos</dd>
 </dl>
 <dl>
+  </br>
   <dt>Cenário: Login após o período de bloqueio</dt>
   </br>
   <dd>Dado que um usuário tenta fazer login após ter sido bloqueado</dd>
@@ -48,6 +49,7 @@
   <dd>Então o sistema deve permitir o login com sucesso</dd>
 </dl>
 <dl>
+  </br>
   <dt>Cenário: Login após o período de bloqueio</dt>
   </br>
   <dd>Dado que um usuário tente fazer login após ter sido bloqueado</dd>
@@ -56,6 +58,7 @@
   <dd>Então o sistema deve permitir o login com sucesso</dd>
 </dl>
 <dl>
+  </br>
   <dt>Cenário: Combinação de usuário e senha inválida</dt>
   </br>
   <dd>Dado que um usuário inexistente tenta fazer login com uma senha incorreta</dd>
@@ -64,6 +67,7 @@
   <dd>Ou a senha estão incorretos</dd>
 </dl>
 <dl>
+  </br>
   <dt>Cenário: Logout</dt>
   </br>
   <dd>Dado que um usuário está autenticado no sistema</dd>
@@ -71,6 +75,7 @@
   <dd>Então o sistema deve encerrar a sessão do usuário</dd>
 </dl>
 <dl>
+  </br>
   <dt>Cenário: Limite de tentativas de senha incorreta por sessão</dt>
   </br>
   <dd>Dado que um usuário insere a senha incorreta duas vezes</dd>
