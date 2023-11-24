@@ -28,6 +28,7 @@
   <dd>Dado que é realizada uma requisição GET para a rota de listagem de cupons fornecendo um ID inválido</dd>
   <dd>Então deve retornar uma mensagem de erro indicando que o cupom não foi encontrado</dd>
 </dl>
+</br>
 <h4>POST - Cadastro de Cupons</h4>
 <dl>
   </br>
