@@ -1,4 +1,4 @@
-<h4>Caso de Teste 1: Recuperação de Senha - Cenário Positivo</h4>
+<h4>História de usuário 1: Recuperação de Senha - Cenário Positivo</h4>
 <dl>
   </br>
   <dt>Pré-condições:</dt>
@@ -23,7 +23,7 @@
   <dd>Um e-mail é enviado ao usuário com um link de recuperação de senha.</dd>
 </dl>
 </br>
-<h4>Caso de Teste 2: Recuperação de Senha - Cenário Negativo (E-mail Inválido)</h4>
+<h4>História de usuário 2: Recuperação de Senha - Cenário Negativo (E-mail Inválido)</h4>
 <dl>
   </br>
   <dt>Pré-condições:</dt>
@@ -46,7 +46,7 @@
   <dd>O sistema exibe uma mensagem de erro indicando que o e-mail fornecido não está associado a nenhuma conta.</dd>
 </dl>
 </br>
-<h4>Caso de Teste 3: Registro de Novo Usuário - Cenário Positivo</h4>
+<h4>História de usuário 3: Registro de Novo Usuário - Cenário Positivo</h4>
 <dl>
   </br>
   <dt>Pré-condições:</dt>
