@@ -19,6 +19,16 @@ O projeto
 
 Critérios de aceitação
 
+<h3>História de usuários</h3>
+
+</br>
+
+[Catálogo de produtos](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/HU-Catalogo_de_produtos.md)
+
+[Meus pedidos](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/HU-Meus_pedidos.md)
+
+[Painel minha conta](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/HU-Painel_minha_conta.md)
+
 <h3>Casos de testes</h3>
 </br>
 
