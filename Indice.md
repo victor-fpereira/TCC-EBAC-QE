@@ -12,11 +12,11 @@
 
 [5. Caso de teste - Detalhes da conta](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/casos_de_testes/TC-Detalhes_da_conta.md)
 
-[6. Cenários de testes em BDD - Adicionar item ao carrinho](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/cenario_bdd/CT001-Adicionar_itens_ao_carrinho.md)
+[6. Cenários de testes em BDD - Adicionar item ao carrinho](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/cenarios_bdd/CT001-Adicionar_itens_ao_carrinho.md)
 
-[6.1 Cenários de testes em BDD - Login de usuário](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/cenario_bdd/CT0002-Login_de_usuario.md)
+[6.1 Cenários de testes em BDD - Login de usuário](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/cenarios_bdd/CT0002-Login_de_usuario.md)
 
-[6.2 Cenários de testes em BDD - Api de cupons](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/cenario_bdd/CT0003-Api_de_cupons.md)
+[6.2 Cenários de testes em BDD - Api de cupons](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/cenarios_bdd/CT0003-Api_de_cupons.md)
 
 
 
