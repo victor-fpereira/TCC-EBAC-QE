@@ -19,9 +19,10 @@ O projeto
 
 Critérios de aceitação
 
-Casos de testes
+<h3>Casos de testes</h3>
+</br>
 
-* [Caso de teste - Detalhes da conta](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/TC-Detalhes_da_conta.md)
+[Caso de teste - Detalhes da conta](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/TC-Detalhes_da_conta.md)
 
 Testes automatizados
 
