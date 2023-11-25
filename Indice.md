@@ -10,7 +10,7 @@
 
 [4.2 História de usuário - Painel minha conta](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/historia_de_usuario/HU-Painel_minha_conta.md)
 
-[5. Caso de teste - Detalhes da conta](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/casos_de_testes/TC-Detalhes_da_conta.md)
+[5. Caso de teste - Detalhes da conta](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/casos_de_testes/CT-Detalhes_da_conta.md)
 
 [5.1 Caso de teste - Lista de pedidos](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/casos_de_testes/CT-Lista_de_pedidos.md)
 
