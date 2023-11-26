@@ -44,6 +44,7 @@
   <dd>A página de detalhes do produto exibe informações precisas e relevantes sobre o produto selecionado.</dd>
   <dd>As opções de tamanho e cor estão corretas e refletem a disponibilidade do produto.</dd>
 </dl>
+</br>
 <h4>Caso de Teste 3: Adição ao Carrinho - Cenário Positivo</h4>
 <dl>
   </br>
@@ -67,6 +68,7 @@
   <dd>O produto é adicionado corretamente ao carrinho.</dd>
   <dd>A quantidade de itens no carrinho é incrementada e reflete a adição bem-sucedida.</dd>
 </dl>
+</br>
 <h4>Caso de Teste 4: Avaliação de Produtos - Cenário Positivo</h4>
 <dl>
   </br>
