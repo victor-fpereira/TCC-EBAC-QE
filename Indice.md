@@ -1,3 +1,5 @@
+[Autor](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/README.md)
+
 [1. Resumo](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/Resumo.md)
 
 [2. Introdução](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/Introducao.md)
