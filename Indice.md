@@ -24,12 +24,14 @@
 
 [6.2 Cenários de testes em BDD - Api de cupons](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/cenarios_bdd/CT0003-Api_de_cupons.md)
 
+[7 Escolha de ferramentas de automação](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/testes_automatizados/Comparativo_ferramentas_automacao.md)
 
+[7.1 Automação API](https://github.com/victor-fpereira/TCC-EBAC-QE/tree/main/testes_automatizados/automacao_api)
 
-Testes automatizados
+[7.2 Automação UI](https://github.com/victor-fpereira/TCC-EBAC-QE/tree/main/testes_automatizados/automacao_ui)
+
+[7.3 Automação Performane]()
 
 Integração contínua
 
-Testes de performance
-
-Conclusão
+[9 Conclusão](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/Conclusao.md)
