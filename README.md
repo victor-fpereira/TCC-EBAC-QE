@@ -1,5 +1,7 @@
 ### TCC do curso de Engenheiro de Qualidade de Software
 
+ ![EBAC](ebac.png)
+
 </br>
 
 | Engenheiro de Qualidade de Software |
