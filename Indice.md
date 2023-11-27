@@ -32,4 +32,4 @@
 
 [7.3 Automação Performance](https://github.com/victor-fpereira/TCC-EBAC-QE/tree/main/testes_automatizados/automacao_performance)
 
-[9 Conclusão](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/Conclusao.md)
+[8 Conclusão](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/Conclusao.md)
