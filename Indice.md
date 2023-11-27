@@ -32,6 +32,6 @@
 
 [7.3 Automação Performance](https://github.com/victor-fpereira/TCC-EBAC-QE/tree/main/testes_automatizados/automacao_performance)
 
-Integração contínua
+[8 Integração contínua](https://github.com/victor-fpereira/TCC-EBAC-QE/tree/main/testes_automatizados/.github/workflows)
 
 [9 Conclusão](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/Conclusao.md)
