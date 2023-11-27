@@ -18,7 +18,7 @@
 
 [5.2 Caso de teste - Painel minha conta](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/casos_de_testes/CT-Painel_minha_conta.md)
 
-[6. Cenários de testes em BDD - Adicionar item ao carrinho](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/cenarios_bdd/CT001-Adicionar_itens_ao_carrinho.md)
+[6. Cenários de testes em BDD - Adicionar item ao carrinho](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/cenarios_bdd/CT0001-Adicionar_itens_ao_carrinho.md)
 
 [6.1 Cenários de testes em BDD - Login de usuário](https://github.com/victor-fpereira/TCC-EBAC-QE/blob/main/cenarios_bdd/CT0002-Login_de_usuario.md)
 
