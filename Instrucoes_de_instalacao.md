@@ -23,7 +23,7 @@
 
 `docker pull grafana/k6:master-with-browser`
 
-### Instalar os requisitos necessários para rodar o projeto de Contrato
+#### Instalar os requisitos necessários para rodar o projeto de Contrato
 
 Primeiros passos para inicializar a execução do projeto de automação de contrato
 
