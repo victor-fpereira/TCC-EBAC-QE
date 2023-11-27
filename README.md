@@ -1,6 +1,6 @@
 ### TCC do curso de Engenheiro de Qualidade de Software
 
- ![EBAC](ebac.png)
+ <img src="ebac.png" width="200" height="100">
 
 </br>
 
