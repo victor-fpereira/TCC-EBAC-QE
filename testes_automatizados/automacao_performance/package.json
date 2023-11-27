@@ -1,0 +1,16 @@
+{
+  "name": "automacao_testes_performance_k6",
+  "version": "1.0.0",
+  "description": "Auomação de testes de performance com K6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Victor F. Peireira",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "@types/k6": "^0.46.3"
+  }
+}
