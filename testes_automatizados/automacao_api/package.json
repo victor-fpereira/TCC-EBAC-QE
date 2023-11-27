@@ -1,0 +1,17 @@
+{
+  "name": "automacao_api",
+  "version": "1.0.0",
+  "description": "Testes de API utilizando os cenários do projeto descritos em BDD",
+  "scripts": {
+    "test:AddProducts": "jest --testNamePattern='AddProducts'",
+    "test:Orders": "jest --testNamePattern='Orders'"
+  },
+  "keywords": [],
+  "author": "Victor F. Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.3",
+    "@faker-js/faker": "^8.3.1"
+  }
+}
