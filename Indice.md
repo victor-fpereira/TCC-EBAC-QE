@@ -30,7 +30,7 @@
 
 [7.2 Automação UI](https://github.com/victor-fpereira/TCC-EBAC-QE/tree/main/testes_automatizados/automacao_ui)
 
-[7.3 Automação Performane]()
+[7.3 Automação Performance](https://github.com/victor-fpereira/TCC-EBAC-QE/tree/main/testes_automatizados/automacao_performance)
 
 Integração contínua
 
